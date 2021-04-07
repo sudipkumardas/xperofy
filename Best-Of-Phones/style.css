@@ -1,0 +1,36 @@
+* {
+    font-size: 18px;
+}
+p {
+    font-family: 'Abhaya Libre', serif;
+    font-size:20px;
+}
+.author-discription {
+    font-family: 'El Messiri', sans-serif;
+}
+.brief-dis::first-letter {
+    font-size: 200%;
+
+}
+.num {
+    font-size: 300%;
+}
+ul {
+    margin-left: 20px;
+}
+.feature {
+    font-family: 'Philosopher', sans-serif;
+}
+.also-see a:link{
+  color:black;
+}
+
+.also-see a:visited{
+  color:black;
+  text-decoration: none;
+}
+/* @media screen and (min-width: 768px) {
+    .aff {
+        margin-top: 200px;
+    }
+} */
