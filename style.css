@@ -1,0 +1,56 @@
+.c a:link{
+    color:black;
+}
+.c a:hover{
+    text-decoration: none;
+}
+.c a:visited{
+    color:black;
+    text-decoration: none;
+}
+.latest-mob .mob-img img{
+    height:120px;
+}
+.trending-mob .mob-img img{
+    height:120px;
+}
+.logo img {
+    width:90px;
+}
+.brnd {
+  width:33.33%;
+}
+.brnd button:hover {
+  background-color: black;
+}
+.brands button {
+  height: 100%;
+  width: 100%;
+}
+.best-of-phones a:link{
+  color:black;
+}
+
+.best-of-phones a:visited{
+  color:black;
+  text-decoration: none;
+}
+.store .mob-img-2 img{
+    height: 120px;
+}
+.logo-2 img {
+    width:80px;
+}
+.store a:link{
+    color:black;
+}
+.store a:hover{
+    text-decoration: none;
+}
+.store a:visited{
+    color:black;
+    text-decoration: none;
+}
+.footer{
+    background-color: #dfe6e9;
+}
